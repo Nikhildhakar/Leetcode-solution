@@ -6,6 +6,7 @@
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,4 +32,24 @@
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nikhildhakar/Leetcode-solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
